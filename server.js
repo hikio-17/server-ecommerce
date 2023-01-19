@@ -10,9 +10,8 @@ const fs = require("fs");
 
 // cors options
 const corsOptions = {
-  origin: [],
   // origin: "http://localhost:3000",
-  // origin: "https://e-commerce-mern010217.netlify.app",
+  origin: "https://ecommerce-mern01021217.netlify.app/",
   credentials: true,
   optionSuccessStatus: 200,
 };
